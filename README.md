@@ -1,6 +1,6 @@
 ## NLP: Sentiment Analysis and Bitcoin Return Prediction Using FinBERT
 
-### Prerequisites
+### PREREQUISITES
 
 - Basic knowledge on Deep Learning and Natural Language
 - Exposure to Pytorch
@@ -24,7 +24,7 @@ First, we compare the performance of FinBERT with base-BERT model on both financ
 
 Second, we use FinBERT in sentiment analysis to obtain sentiment score on tweets. Then weuse the obtained score to predict future Bitcoin return and price movements. We find that adding the sentiment score as a feature could improve the prediction of Bitcoin’s next-day return, but the performance improvement hinges on the machine learning model adopted.
 
-#### References
+#### REFERENCES
 
 _[1] Devlin, Jacob, et al., Bert: Pre-training of deep bidirectionaltransformers for language understanding. arXiv preprintarXiv:1810.04805 (2018)._
 _[2] GregoryW. Eaton, T. Clifton Green, Brian S. Roseman, andYanbin Wu. Retail Trader Sophistication and Stock MarketQuality: Evidence from Brokerage Outages. Working paper,2021._
